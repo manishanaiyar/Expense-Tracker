@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "amount": 5666.0,
+        "category": "travel",
+        "date": "2025-02-16"
+    },
+    {
+        "id": 2,
+        "amount": 655.0,
+        "category": "food",
+        "date": "2025-06"
+    },
+    {
+        "id": 3,
+        "amount": 810.0,
+        "category": "Food",
+        "date": "2025-08-14"
+    },
+    {
+        "id": 4,
+        "amount": 8985.0,
+        "category": "Travel",
+        "date": "2025-01-08"
+    },
+    {
+        "id": 5,
+        "amount": 6041.0,
+        "category": "Travel",
+        "date": "2025-03-15"
+    }
+]
